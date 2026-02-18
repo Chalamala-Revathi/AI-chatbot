@@ -1,0 +1,6 @@
+flask
+tensorflow
+nltk
+numpy
+keras
+h5py
